@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+00_grow_documentation/*
+00_grow_hub/Library/*
+
 # Distribution / packaging
 .Python
 build/
